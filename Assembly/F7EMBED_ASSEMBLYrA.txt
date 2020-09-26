@@ -1,0 +1,2 @@
+F7 EMBEDED MEADOW ASSEMBY NOTES REV A
+1. U3 is a dual footprint line up with pin A1 not the origin. 
