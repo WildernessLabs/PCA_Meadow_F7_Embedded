@@ -1,17 +1,23 @@
 # PCA_Meadow_F7_Embedded
 PCA (Printed Circuit Assembly) design of the Meadow F7 Embedded SMT module.
+Tool: Kicad
+Version: 5.1.6
+Current Revision: B
 
 ## Folder Structure
 ### Home Folder
 * Source Files for Current Revsion
 ### PCB_FAB
 * Gerbers
+* Gerbers (zip)
 * Stack up 
-* Fab notes
-* Pannel Gerbers
+* Fab Drawing (pdf)
+* Pannel Gerbers (to be added)
+* Netlist(.d356)
 ### Assembly
 * BOM
 * PDF Schematic
-* Assembly Notes
+* Assembly Drawing (pdf)
 * Rendered Pictures
 * 3D Model
+* pick and place file/pos file (.csv)
