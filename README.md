@@ -2,7 +2,7 @@
 PCA (Printed Circuit Assembly) design of the Meadow F7 Embedded SMT module.\
 Tool: Kicad\
 Version: 5.1.6\
-Current Revision: B\
+Current Revision: B
 
 ## Folder Structure
 ### Home Folder
