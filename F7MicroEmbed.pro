@@ -1,4 +1,4 @@
-update=9/26/2020 11:18:34 AM
+update=11/15/2020 12:21:20 AM
 version=1
 last_client=kicad
 [general]
@@ -12,9 +12,19 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
+[schematic_editor]
+version=1
+PageLayoutDescrFile=../Circuit_Part_Libraries/Libraries_Kicad/WildernessLab_pagelayout.kicad_wks
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
-PageLayoutDescrFile=/Users/sheldon/Meadow-Reference-Designs/KiCAd_Libs/WildernessLab_pagelayout.kicad_wks
+PageLayoutDescrFile=C:/wildernesslabs/Circuit_Part_Libraries/Libraries_Kicad/WildernessLab_pagelayout.kicad_wks
 LastNetListRead=F7MicroEmbed_RevA.net
 CopperLayerCount=8
 BoardThickness=1.60655
@@ -53,9 +63,9 @@ SilkTextSizeThickness=0.15
 SilkTextItalic=0
 SilkTextUpright=1
 CopperLineWidth=0.2
-CopperTextSizeV=1.5
-CopperTextSizeH=1.5
-CopperTextThickness=0.3
+CopperTextSizeV=1
+CopperTextSizeH=1
+CopperTextThickness=0.15
 CopperTextItalic=0
 CopperTextUpright=1
 EdgeCutLineWidth=0.05
@@ -66,8 +76,8 @@ OthersTextSizeH=1
 OthersTextSizeThickness=0.15
 OthersTextItalic=0
 OthersTextUpright=1
-SolderMaskClearance=0.005079999999999999
-SolderMaskMinWidth=0.0254
+SolderMaskClearance=0.0508
+SolderMaskMinWidth=0
 SolderPasteClearance=0
 SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
@@ -292,13 +302,3 @@ uViaDrill=0.1
 dPairWidth=0.127
 dPairGap=0.2032
 dPairViaGap=0.25
-[schematic_editor]
-version=1
-PageLayoutDescrFile=../Circuit_Part_Libraries/Libraries_Kicad/WildernessLab_pagelayout.kicad_wks
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceAjustPassiveValues=0
-LabSize=50
-ERC_TestSimilarLabels=1
