@@ -8,6 +8,7 @@ Current Revision: B
 ### Home Folder
 * Source Files for Current Revsion
 ### PCB_FAB
+Files Required to make the bare PCB
 * Gerbers
 * Gerbers (zip)
 * Stack up 
@@ -15,6 +16,7 @@ Current Revision: B
 * Pannel Gerbers (to be added)
 * Netlist(.d356)
 ### Assembly
+Files required to asseble the PCA, using the bare PCB.
 * BOM
 * PDF Schematic
 * Assembly Drawing (pdf)
