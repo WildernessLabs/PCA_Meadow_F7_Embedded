@@ -21,3 +21,9 @@ Current Revision: B\
 * Rendered Pictures
 * 3D Model
 * pick and place file/pos file (.csv)
+
+##Rev B Change Log
+* Retuned USB signals
+* Added edge plating to module SMT pads
+* Created Fab drawing with pcb fab notes
+* Created Assembly Drawing, added assembly notes to it
