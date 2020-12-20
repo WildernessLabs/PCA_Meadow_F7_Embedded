@@ -1,5 +1,5 @@
-Drill report for C:\wildernesslabs\PCA_Meadow_F7_Embedded\F7MicroEmbed.kicad_pcb
-Created on 11/15/2020 2:34:18 PM
+Drill report for C:\Wildernesslabs\PCA_Meadow_F7_Embedded\F7MicroEmbed.kicad_pcb
+Created on 12/20/2020 3:46:52 PM
 
 Copper Layer Stackup:
     =============================================================
@@ -18,8 +18,9 @@ Drill file 'F7MicroEmbed-PTH.drl' contains
     =============================================================
     T1  0.20mm  0.008"  (446 holes)
     T2  0.25mm  0.010"  (26 holes)
+    T3  0.50mm  0.020"  (78 holes)
 
-    Total plated holes count 472
+    Total plated holes count 550
 
 
 Drill file 'F7MicroEmbed-NPTH.drl' contains
